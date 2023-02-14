@@ -8,6 +8,7 @@ Print com a resposta
 
 <bold> 2. Top 5 personagens/atores que mais aparecem na série </bold><br/>
 Print com a resposta
+SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE id ORDER BY id ASC LIMIT 5;
 ![Top5 personagens - Todos](https://user-images.githubusercontent.com/112404942/218888209-3e9a703c-af52-48e2-ad23-98675f30281c.png)
 
 
