@@ -1,0 +1,41 @@
+id,gender,name_char,name_actor,episodes,first_ap,last_ap
+1,M,"Tyrion Lannister","Peter Dinklage",67,2011,2019
+2,F,"Cersei Lannister","Lena Headey",62,2011,2019
+3,F,"Daenerys Targaryen","Emilia Clarke",62,2011,2019
+4,M,"Jon Snow","Kit Harington",62,2011,2019
+5,F,"Sansa Stark","Sophie Turner",59,2011,2019
+6,F,"Arya Stark","Maisie Williams",59,2011,2019
+7,M,"Jaime Lannister","Nikolaj Coster-Waldau",55,2011,2019
+8,M,"Jorah Mormont","Iain Glen",52,2011,2019
+9,M,"Samwell Tarly","John Bradley",48,2011,2019
+10,M,"Theon Greyjoy","Alfie Allen",47,2011,2019
+11,M,"Lord Varys","Conleth Hill",46,2011,2019
+12,M,"Davos Seaworth","Liam Cunningham",42,2012,2019
+13,F,"Brienne of Tarth","Gwendoline Christie",42,2012,2019
+14,M,"Petyr 'Littlefinger' Baelish","Aidan Gillen",41,2011,2017
+15,M,"Bran Stark Isaac","Hempstead Wright",40,2011,2019
+16,M,"Sandor 'The Hound' Clegane","Rory McCann",38,2011,2019
+17,F,Missandei,"Nathalie Emmanuel",38,2013,2019
+18,M,Bronn,"Jerome Flynn",37,2011,2019
+19,M,"Podrick Payne","Daniel Portman",35,2012,2019
+20,M,"Grey Worm","Jacob Anderson",34,2013,2019
+21,M,"Eddison Tollett","Ben Crompton",34,2012,2019
+22,M,"Tormund Giantsbane","Kristofer Hivju",33,2013,2019
+23,M,"Grand Maester Pycelle","Julian Glover",31,2011,2016
+24,F,Melisandre,"Carice van Houten",29,2012,2019
+25,M,"Tywin Lannister","Charles Dance",27,2011,2015
+26,F,Gilly,"Hannah Murray",27,2012,2019
+27,F,"Margaery Tyrell","Natalie Dormer",26,2012,2016
+28,M,"Joffrey Baratheon","Jack Gleeson",26,2011,2014
+29,F,"Catelyn Stark","Michelle Fairley",26,2011,2016
+30,M,"Barristan Selmy","Ian McElhinney",25,2011,2015
+31,M,"Stannis Baratheon","Stephen Dillane",24,2012,2015
+32,F,Gendry,"Joe Dempsie",24,2011,2019
+33,M,Hodor,"Kristian Nairn",23,2011,2016
+34,M,Qyburn,"Anton Lesser",22,2013,2019
+35,M,Grenn,"Mark Stanley",22,2011,2014
+36,M,"Robb Stark","Richard Madden",22,2011,2016
+37,M,"Loras Tyrell","Finn Jones",21,2011,2016
+38,F,Shae,"Sibel Kekilli",20,2011,2014
+39,M,"Ramsay Bolton","Iwan Rheon",20,2013,2016
+40,M,"Roose Bolton","Michael McElhatton",20,2012,2016
