@@ -15,7 +15,8 @@ SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM chara
 <bold> 3. Top 5 personagens/atores que menos aparecem na série </bold><br/>
 Print com a resposta
 SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE id ORDER BY id DESC LIMIT 5;
-// DEU ERRO NO MYSQL WORKBENCH
+![Top5 personagens - Menos aparecem](https://user-images.githubusercontent.com/112404942/218890344-6b7bc7b9-8fe3-436d-a83c-fd7772ac2478.png)
+
 
 
 
