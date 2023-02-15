@@ -2,7 +2,7 @@ Tabela de dados com 7 colunas e 40 linhas baseado na obra de Game of Thrones.
 
 
 <bold> 1. Top 5 personagens/atores que ficaram mais tempo na série </bold><br/>
-// ACHO MELHOR TIRAR ESSA PERGUNTA
+SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE last_ap - first_ap ORDER BY id ASC LIMIT 5;
 
 
 <bold> 2. Top 5 personagens/atores que mais aparecem na série </bold><br/>
