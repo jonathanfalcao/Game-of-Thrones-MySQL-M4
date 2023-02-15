@@ -1,4 +1,4 @@
-Tabela de dados com 7 colunas e 40 linhas baseado na obra de Game of Thrones.
+Tabela de dados com 7 colunas e 40 linhas baseado na obra de Game of Throne.
 
 
 <bold> 1. Top 5 personagens/atores que ficaram mais tempo na série </bold><br/>
