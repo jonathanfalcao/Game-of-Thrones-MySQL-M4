@@ -2,7 +2,8 @@
 O quarto projeto em grupo do módulo IIII da RESÍLIA EDUCAÇÃO.
 Que consiste em montar um dashboard com base no conjunto de dados
 escolhidos pelo grupo, a fim de realizar uma
-apresentação com a exploração dos dados.
+apresentação com a exploração dos dados.  
+
 
 
 ## 🔎 **Perguntas elaboradas com base no banco de dados:**  
