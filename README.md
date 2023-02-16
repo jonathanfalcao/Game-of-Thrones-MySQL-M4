@@ -56,4 +56,11 @@ apresentação com a exploração dos dados.
   
   
   
-  ***
+  ---
+  ## :people_holding_hands: Equipe
+- <a href="https://github.com/jonathanfalcao">@jonathanfalcao</a>
+- <a href="https://github.com/JEDSPAIXAO">@JEDSPAIXAO</a>
+- <a href="https://github.com/Jonas-Sousa">@Jonas-Sousa</a>
+- <a href="https://github.com/sara-rosa">@sara-rosa</a>
+- <a href="https://github.com/gooddri">@gooddri</a>
+- <a href="https://github.com/SuelenPenha">@SuelenPenha</a>
