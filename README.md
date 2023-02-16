@@ -21,4 +21,39 @@ apresentação com a exploração dos dados.
   
   
   ***
+### 2) Top 5 personagens/atores que menos aparecem na série  
 
+    comando:
+        SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE id ORDER BY id DESC LIMIT 5;  
+        
+    
+    
+  <img alt="tabela alunos" src="https://raw.githubusercontent.com/jonathanfalcao/Game-of-Thrones-MySQL-M4/main/MySQL/img.dashboard/2.jpg">  
+  
+  
+  
+  ***
+  ### 3) Top 5 personagens/atores mulheres mais que aparecem na série  
+
+    comando:
+        SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE gender = "F" ORDER BY id ASC LIMIT 5;  
+        
+    
+    
+  <img alt="tabela alunos" src="https://raw.githubusercontent.com/jonathanfalcao/Game-of-Thrones-MySQL-M4/main/MySQL/img.dashboard/3.jpg">  
+  
+  
+  
+  ***
+  ### 4)  Top 5 personagens/atores homens  que mais aparecem na série
+
+    comando:
+        SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE gender = "M" ORDER BY id ASC LIMIT 5;  
+        
+    
+    
+  <img alt="tabela alunos" src="https://raw.githubusercontent.com/jonathanfalcao/Game-of-Thrones-MySQL-M4/main/MySQL/img.dashboard/4.jpg">  
+  
+  
+  
+  ***
