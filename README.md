@@ -21,7 +21,7 @@ apresentação com a exploração dos dados.
   
   
   ***
-### 2) Top 5 personagens/atores que menos aparecem na série  
+### 2) Top 5 personagens/atores que menos apareceram na série  
 
     comando:
         SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE id ORDER BY id DESC LIMIT 5;  
@@ -33,7 +33,7 @@ apresentação com a exploração dos dados.
   
   
   ***
-  ### 3) Top 5 personagens/atores mulheres mais que aparecem na série  
+  ### 3) Top 5 personagens/atrizes mais que apareceram na série  
 
     comando:
         SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE gender = "F" ORDER BY id ASC LIMIT 5;  
@@ -45,7 +45,7 @@ apresentação com a exploração dos dados.
   
   
   ***
-  ### 4)  Top 5 personagens/atores homens  que mais aparecem na série
+  ### 4)  Top 5 personagens/atores que mais apareceram na série
 
     comando:
         SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE gender = "M" ORDER BY id ASC LIMIT 5;  
