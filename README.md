@@ -16,7 +16,7 @@ apresentação com a exploração dos dados.
         
     
     
-  ![](img.dashboard/1.jpg)  
+  <img alt="tabela alunos" src="https://raw.githubusercontent.com/jonathanfalcao/Game-of-Thrones-MySQL-M4/main/MySQL/img.dashboard/1.jpg">  
   
   
   
