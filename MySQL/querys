@@ -7,18 +7,8 @@ SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM chara
 4	M	Jon Snow		Kit Harington	62	2011	2019
 5	F	Sansa Stark		Sophie Turner	59	2011	2019
 						
-
-**2. Top 5 personagens/atores que mais aparecem na série**
-SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE episodes ORDER BY episodes DESC LIMIT 5;
-
-1	M	Tyrion Lannister	Peter Dinklage	67	2011	2019
-2	F	Cersei Lannister	Lena Headey	62	2011	2019
-3	F	Daenerys Targaryen	Emilia Clarke	62	2011	2019
-4	M	Jon Snow		Kit Harington	62	2011	2019
-5	F	Sansa Stark		Sophie Turner	59	2011	2019
 						
-
-**3. Top 5 personagens/atores que menos aparecem na série**
+**2. Top 5 personagens/atores que menos aparecem na série**
 SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE episodes ORDER BY episodes ASC LIMIT 5;
 
 40	M	Roose Bolton	Michael McElhatton	20	2012	2016
@@ -28,7 +18,7 @@ SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM chara
 36	M	Robb Stark	Richard Madden		22	2011	2016
 						
             
-**4. Top 5 personagens/atores mulheres mais que aparecem na série**
+**3. Top 5 personagens/atores mulheres mais que aparecem na série**
 SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE gender = "F" ORDER BY episodes DESC LIMIT 5;
 
 2	F	Cersei Lannister	Lena Headey	62	2011	2019
@@ -38,7 +28,7 @@ SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM chara
 13	F	Brienne of Tarth	Gwendoline ...	42	2012	2019
 						
             
-**5. Top 5 personagens/atores homens que mais aparecem na série**
+**4. Top 5 personagens/atores homens que mais aparecem na série**
 SELECT id, gender, name_char, name_actor, episodes, first_ap, last_ap FROM characters WHERE gender = "M" ORDER BY episodes DESC LIMIT 5;
 
 1	M	Tyrion Lannister	Peter Dinklage	67	2011	2019
